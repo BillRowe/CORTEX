@@ -104,10 +104,4 @@ Run from the package root:
 python -c "import cortex2; cortex2.CORTEX(); print('OK')"
 ```
 
-## Reference documents
-
-- `CORTEX-ARCH-002` — Technical architecture (26 pp)
-- `CORTEX-ROAD-001` — Implementation roadmap (15 pp, 4 phases, 18 mo)
-- `CORTEX-DEMO-002` — Runnable demo of heroes #5 and #3
-
 UNCLASSIFIED // FOR OFFICIAL USE ONLY
