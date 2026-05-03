@@ -81,11 +81,6 @@ dev = [
     "ruff>=0.4",
 ]
 
-[project.urls]
-"Architecture" = "internal://CORTEX-ARCH-002"
-"Roadmap"      = "internal://CORTEX-ROAD-001"
-"Demo"         = "internal://CORTEX-DEMO-002"
-
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["cortex2*"]
