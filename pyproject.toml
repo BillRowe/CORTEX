@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "Proprietary" }
 authors = [
-    { name = "CORTEX - Strategic Technology Assessment" },
+    { name = "William M. Rowe, M.Ed" },
 ]
 keywords = ["agi", "cognitive-architecture", "predictive-coding",
             "active-inference", "theory-of-mind", "causal-discovery"]
