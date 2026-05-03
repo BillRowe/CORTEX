@@ -102,4 +102,4 @@ If you add a new example, it should:
 - Print clearly-labeled output that a reader can interpret without running the code
 - Be referenced in this README
 
-Examples that require Neo4j, Qdrant, or an LLM API key should not live here. Those are integration tests; place them in a separate `integration/` folder if you add them.
+
